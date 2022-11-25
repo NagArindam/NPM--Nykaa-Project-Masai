@@ -1,14 +1,19 @@
 # NPM--Nykaa-Project-Masai
 This is a E-commerce website.
-User can sign up, search and add product to the cart and buy.
+#### User can,
+1. Create a User account.
+2. Login to your account.
+3. Add a product to cart
+4. Order product from cart
+
 
 
 # Home page
 ![Landing Page](nykaa.png)
 
 
-### code live at
-### [https://adorable-cobbler-b9755b.netlify.app/index.html](https://starving-array.github.io/NPM--Nykaa-Project-Masai/)
+#### code live at
+#### [watch live](https://starving-array.github.io/NPM--Nykaa-Project-Masai/)
 
 ## Tech Stacks Used
 
